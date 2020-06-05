@@ -15,6 +15,7 @@ public class Create {
 			 * UserRepository.save(user);
 			 * subscriber.onNext(user);
 			 * subscriber.onComepleted();
+			 *  
 			 * LISTAR
 			 * List<User> users = userRepository.findAll();
 			 * users.foreach(Subscriber::onNext);
